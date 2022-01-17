@@ -421,4 +421,4 @@ client.on('message', msg => {
     }
   });
 
-client.login('Nzk1MzY5MjYwMDcwNDY5NjUz.X_IXWA.J4dEw5BaR6sQlTMu8mM_upq8ncA');
+client.login();
