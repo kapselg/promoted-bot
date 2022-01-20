@@ -11,7 +11,7 @@ var con = mysql.createConnection({
     user: "db_4869077_1",
     password: "SPxirvIJ"
 });
-
+//fajne
 con.connect(function(err) {
     if (err) throw err;
     console.log("Connected to db!");
